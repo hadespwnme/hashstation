@@ -22,7 +22,7 @@ A simple CLI tool to **analyze** and **crack** various hash types using the most
 ### Python Dependencies
 
 - `rich`
-- `kertash`
+- `pycrackhash`
 
 #### Quick Install
 
