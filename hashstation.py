@@ -4,7 +4,7 @@ import signal
 import re
 from pathlib import Path
 from typing import Any, Tuple, List, Dict
-from pycrackhash import crack, crack_file, analyze, analyze_file
+from hashstation import crack, crack_file, analyze, analyze_file
 from rich import print
 from rich.table import Table
 from rich import box
